@@ -58,7 +58,7 @@ The system can detect, classify, and count fruits/vegetables using the YOLOv8 ob
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-repo/smart-quality-system.git
+    git clone https://github.com/brambhattabhishek/smart-quality-system.git
     cd smart-quality-system/backend
     ```
 
